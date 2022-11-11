@@ -6,3 +6,10 @@ I am here to learn and contribute.
 📫 How to reach me: 
 www.linkedin.com/in/yasemincingoz2022
 cingozyasemin@icloud.com 
+
+
+
+👩‍💻TECH STACK
+Python for Data Analysis / MySQL / Microsoft Excel / Power Pivot / Power Query/ Power BI 
+
+
