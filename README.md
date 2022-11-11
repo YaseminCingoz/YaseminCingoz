@@ -10,6 +10,7 @@ cingozyasemin@icloud.com
 
 
 👩‍💻TECH STACK
+
 Python for Data Analysis / MySQL / Microsoft Excel / Power Pivot / Power Query/ Power BI 
 
 
